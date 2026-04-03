@@ -1,5 +1,5 @@
 /**
- * Approvero Bot Tracker v1.0
+ * Approvero Bot Tracker v1.1
  * Lightweight AI bot detection script (~1.5 KB minified)
  * 
  * Usage:
